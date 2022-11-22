@@ -1,4 +1,4 @@
-# ESG-investment with AI
+# 2022 ESG-investment with AI
 ### Winner of KB Digital Idea Market with 4th Rank
 
 ***This repository is referenced by [ESG_AI](https://github.com/hannahawalsh/ESG_AI) 
